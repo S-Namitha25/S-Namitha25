@@ -14,19 +14,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
+
+<div class="languages">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
 </a>
 
 <a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="40">
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" width="40">
 </a>
-<div>
+
+</div>
