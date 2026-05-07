@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Namitha S</h1>
-<h3 align="center">A passionate in Java,PowerBI,SQL</h3>
+<h3 align="center">A passionate in Java,HTML,CSS,SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-namitha25&label=Profile%20views&color=0e75b6&style=flat" alt="s-namitha25" /> </p>
 
 - 🌱 I’m currently learning **Data Visualization with Power BI and Excel**
 
-- 💬 Ask me about **Java,C,SQL**
+- 💬 Ask me about **HTML,CSS,Java,C,SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
