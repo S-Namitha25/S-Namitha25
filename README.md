@@ -16,14 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<style>
-.languages{
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    gap:10px;
-}
-</style>
+
 <div class="languages">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
