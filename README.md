@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 <div class="languages">
 
@@ -33,6 +34,16 @@
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" width="40">
 </a>
+
+</div>
+
+<style>
+.languages{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+</style>
 
 </div>
 
