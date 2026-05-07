@@ -11,6 +11,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/namitha sasikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namitha sasikumar" height="30" width="40"   /></a>
 <a href="https://www.leetcode.com/s_namitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_namitha" height="30" width="40"   /></a>
+<a href="https://linkedin.com/in/namitha-sasikumar" target="_blank" class="social-icon"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile">
+
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
