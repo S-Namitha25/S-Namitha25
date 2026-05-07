@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>Languages and Tools:</h3>
+
 
 <div class="languages">
 
@@ -36,21 +36,3 @@
 </a>
 
 </div>
-
-<style>
-.languages{
-    display:flex;
-    align-items:center;
-    gap:10px;
-}
-</style>
-
-</div>
-
-<style>
-.languages{
-    display:flex;
-    align-items:center;
-    gap:10px;
-}
-</style>
